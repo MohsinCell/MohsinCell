@@ -1,6 +1,6 @@
 # Hi there, I'm Mohsin! 👋
 
-### 💻 A Wanna-be Cryptographer | He/Him
+### 💻 Cryptography Enthusiast | He/Him
 
 ---
 
