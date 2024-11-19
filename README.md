@@ -1,6 +1,6 @@
 # Hi there, I'm Mohsin! 👋
 
-### 💻 Cryptography Enthusiast | He/Him
+### 19 | He/Him
 
 ---
 
