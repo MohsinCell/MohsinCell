@@ -9,10 +9,10 @@ I'm a passionate student currently pursuing my bachelors in **Electronics & Comm
 
 #### 🛠️ Tech Stack
 - **Languages**: Currently learning **Python** & **C++**
-- **Interests**: Cryptography, Analog & Digital Systems
+- **Interests**: Cryptography, Digital Communication
 
 #### 🌱 My Journey
-Although I don't have any projects yet, I'm building a solid foundation in programming and systems. Every day is a step closer to creating something impactful.
+Although I don't have many projects yet, I'm building a solid foundation in programming and systems. Every day is a step closer to creating something impactful.
 
 #### 🎲 Hobbies
 When I'm not coding, you'll often find me:
