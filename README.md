@@ -1,4 +1,4 @@
-# Hi there, I'm Mohsin! 👋
+# Hi there, I'm Mohsin!
 
 ### 20 | He/Him
 
@@ -16,8 +16,8 @@ Although I don't have many projects yet, I'm building a solid foundation in prog
 
 #### Hobbies
 When I'm not coding, you'll often find me:
-- Solving puzzles to keep my mind sharp 🧩
-- Sipping on a cup of coffee (yes, I prefer it over tea ☕)
+- Solving random stuff probably 
+- Sipping on a cup of coffee
 
 #### Let's Connect
 - **Email**: [mohsinbelam@gmail.com](mailto:mohsinbelam@gmail.com)
