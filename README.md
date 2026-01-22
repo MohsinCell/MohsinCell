@@ -8,7 +8,7 @@
 I'm a passionate student currently pursuing my bachelors in **Electronics & Communication** at **Vishwakarma Government Engineering College**. My dream is to delve deep into the fascinating world of **cryptography**, as well as explore **analog and digital systems**. While I'm still honing my skills, I'm eager to learn, grow, and contribute.
 
 #### Tech Stack
-- **Languages**: Currently learning **Python** & **C++**
+- **Languages**: Currently learning **Python** & **JS**
 - **Interests**: Cryptography, Digital Communication
 
 #### My Journey
