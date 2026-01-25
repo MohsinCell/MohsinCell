@@ -35,11 +35,11 @@ Cranial Resonance Biometric Authentication—researching skull resonance pattern
 
 ## Skills
 
-**Languages:** C++, Python, JavaScript/TypeScript, Bash  
-**Cryptography:** Symmetric/Asymmetric Encryption, HKDF, PBKDF2, HMAC, SHA-256, BLAKE2b, Cryptanalysis  
-**Networking:** VPN Tunneling, TCP/IP, Packet Routing, Socket Programming, Wireshark, OpenSSL  
-**Hardware:** Arduino, Signal Processing, ADC/DAC, Embedded Systems  
-**Tools:** Git, Docker, Linux, React, Node.js, LaTeX
+**Languages:** `C++` `Python` `JavaScript` `TypeScript` `Bash`  
+**Cryptography:** `Symmetric/Asymmetric Encryption` `HKDF` `PBKDF2` `HMAC` `SHA-256` `BLAKE2b` `Cryptanalysis`  
+**Networking:** `VPN Tunneling` `TCP/IP` `Packet Routing` `Socket Programming` `Wireshark` `OpenSSL`  
+**Hardware:** `Arduino` `Signal Processing` `ADC/DAC` `Embedded Systems`  
+**Tools:** `Git` `Docker` `Linux` `React` `Node.js` `LaTeX`
 
 ---
 
