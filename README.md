@@ -1,29 +1,46 @@
-# Hi there, I'm Mohsin!
+# Mohsin Belam
 
-### 20 | He/Him
+**Electronics & Communication Engineering** · VGEC '26  
+Cryptography · Network Security · Embedded Systems
 
----
-
-#### About Me
-I'm a passionate student currently pursuing my bachelors in **Electronics & Communication** at **Vishwakarma Government Engineering College**. My dream is to delve deep into the fascinating world of **cryptography**, as well as explore **analog and digital systems**. While I'm still honing my skills, I'm eager to learn, grow, and contribute.
-
-#### Tech Stack
-- **Languages**: Currently learning **Python** & **JS**
-- **Interests**: Cryptography, Digital Communication
-
-#### My Journey
-Although I don't have many projects yet, I'm building a solid foundation in programming and systems. Every day is a step closer to creating something impactful.
-
-#### Hobbies
-When I'm not coding, you'll often find me:
-- Solving random stuff probably 
-- Sipping on a cup of coffee
-
-#### Let's Connect
-- **Email**: [mohsinbelam@gmail.com](mailto:mohsinbelam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohsinbelam%40gmail.com-black?style=flat-square)](mailto:mohsinbelam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Belam-black?style=flat-square)](https://www.linkedin.com/in/mohsin-belam-b82abb279/)
 
 ---
 
-> *"Know Thyself - Socrates."* 
+I design and build cryptographic systems, secure network infrastructure, and embedded hardware. Currently researching biometric authentication through cranial resonance patterns.
 
+## Projects
 
+### [Deimos Cipher](https://github.com/MohsinCell/Deimos-Cipher) · [Live Demo](https://deimoscipher.space)
+Symmetric-key encryption algorithm achieving **6.24 bits/byte entropy** for short plaintexts (vs. 4.00 AES, 2.58 ChaCha20). Built with XChaCha20, HKDF-BLAKE2b, and HMAC-SHA256. Published in the *Journal of Electrical and Computational Innovations*.  
+`C++` `Python` `Cryptography`
+
+### [Salsa VPN](https://github.com/MohsinCell/SALSA-Encrypted-Tunnel)
+Encrypted VPN tunnel using Deimos Cipher. Handles 10 concurrent clients over custom TUN/TAP interface with real-time traffic monitoring via PyQt GUI.  
+`Python` `Network Security` `Socket Programming`
+
+### [Creeks](https://github.com/MohsinCell/Creeks-Intelligent-Solar-Tracking-System) · [Dashboard](https://creeks.netlify.app/)
+Dual-axis solar tracker with location-specific sun path algorithms. 12 positioning steps across azimuth 25°-175° and elevation 35°-135°.  
+`Arduino` `Embedded Systems`
+
+### CRBA *(In Progress)*
+Cranial Resonance Biometric Authentication—researching skull resonance patterns for identification using bone conduction transducers and piezoelectric sensors.  
+`Arduino` `Signal Processing` `Biometrics`
+
+## Publication
+
+**Deimos Cipher: A High-Entropy, Secure Encryption Algorithm with Strong Diffusion and Key Sensitivity**  
+*Journal of Electrical and Computational Innovations*, 2(1), 2025 · [Read Paper](https://www.opastpublishers.com/open-access-articles/deimos-cipher-a-highentropy-secure-encryption-algorithm-with-strong-diffusion-and-key-sensitivity.pdf)
+
+## Skills
+
+**Languages:** C++, Python, JavaScript/TypeScript, Bash  
+**Cryptography:** Symmetric/Asymmetric Encryption, HKDF, PBKDF2, HMAC, SHA-256, BLAKE2b, Cryptanalysis  
+**Networking:** VPN Tunneling, TCP/IP, Packet Routing, Socket Programming, Wireshark, OpenSSL  
+**Hardware:** Arduino, Signal Processing, ADC/DAC, Embedded Systems  
+**Tools:** Git, Docker, Linux, React, Node.js, LaTeX
+
+---
+
+> *"Know Thyself"* — Socrates
