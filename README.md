@@ -1,10 +1,10 @@
 # Mohsin Belam
-
 **Electronics & Communication Engineering** · VGEC '26  
 Cryptography · Network Security · Embedded Systems
 
-[![Email](https://img.shields.io/badge/Email-mohsinbelam%40gmail.com-black?style=flat-square)](mailto:mohsinbelam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Belam-black?style=flat-square)](https://www.linkedin.com/in/mohsin-belam-b82abb279/)
+[![Email](https://img.shields.io/badge/Email-mohsinbelam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsinbelam@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-marsthepreacher-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/marsthepreacher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Belam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-belam-b82abb279/)
 
 ---
 
