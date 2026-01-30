@@ -12,7 +12,7 @@ I design and build cryptographic systems, secure network infrastructure, and emb
 
 ## Projects
 
-### [Deimos Cipher](https://github.com/MohsinCell/Deimos-Cipher) · [Live Demo](https://deimoscipher.space)
+### [Deimos Cipher](https://github.com/MohsinCell/Deimos-Cipher) · [Live Demo (Currently in maintenance)](https://deimoscipher.space)
 Symmetric-key encryption algorithm achieving **6.24 bits/byte entropy** for short plaintexts (vs. 4.00 AES, 2.58 ChaCha20). Built with XChaCha20, HKDF-BLAKE2b, and HMAC-SHA256. Published in the *Journal of Electrical and Computational Innovations*.  
 `C++` `Python` `Cryptography`
 
