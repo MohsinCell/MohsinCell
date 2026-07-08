@@ -8,7 +8,7 @@ Cryptography · Network Security · Embedded Systems · Full-Stack Engineering
 
 ---
 
-Final-year ECE student who builds things end to end. From custom encryption algorithms and VPN tunnels to NLP platforms, gesture-controlled instruments, and adaptive learning apps. If it involves breaking something down to first principles and building it right, that is the work.
+Final-year ECE student.
 
 ---
 
