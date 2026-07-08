@@ -1,5 +1,5 @@
 # Mohsin Belam
-**Electronics & Communication Engineering** · 20 · VGEC '26  
+**Electronics & Communication Engineering** · 21 · VGEC '26  
 Cryptography · Network Security · Embedded Systems · Full-Stack Engineering
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/marsthepreacher)
