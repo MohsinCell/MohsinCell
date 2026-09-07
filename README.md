@@ -34,7 +34,7 @@ Research-grade VPN built on the Deimos Cipher. Python control plane loads a comp
 
 ---
 
-### [ReviewIQ](https://github.com/MohsinCell/NLP-Review-Authenticity-Analysis) · [Live Demo](https://reviewiq.website)
+### [ReviewIQ](https://github.com/MohsinCell/NLP-Review-Authenticity-Analysis)
 Full-stack NLP platform for detecting fake, AI-generated, and manipulated product reviews. Runs a multi-model fusion pipeline across three independently fine-tuned transformers: a BERT sentiment classifier, a BERT star-rating predictor, and a RoBERTa AI-detection model. Produces a composite 0-100 authenticity score per review. Product-level trust reports add statistical anomaly detection, near-duplicate identification via TF-IDF cosine similarity, and temporal burst detection. Covers Amazon (10 regional domains), Flipkart, Myntra, Ajio, and Nykaa through a stealth-capable Playwright scraper. Ships with a Chrome extension for one-click in-browser analysis.  
 `Java 21` `Spring Boot` `React` `TypeScript` `PyTorch` `BERT` `RoBERTa` `PostgreSQL` `Redis` `Playwright`
 
