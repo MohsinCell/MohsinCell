@@ -22,7 +22,7 @@ Designing and building the web presence for AJ71 Events, a Daman-based event man
 
 ## Projects
 
-### [Deimos Cipher](https://github.com/MohsinCell/Deimos-Cipher) · [Live Demo](https://deimoscipher.space)
+### [Deimos Cipher](https://github.com/MohsinCell/Deimos-Cipher) · [Live Demo](https://deimoscipher.site)
 Symmetric-key encryption algorithm achieving **6.24 bits/byte entropy** for short plaintexts, outperforming AES (4.00) and ChaCha20 (2.58). Built around XChaCha20, HKDF-BLAKE2b, and HMAC-SHA256. Ships as a CLI, a reusable C++ API, and a browser app supporting text, image, and video encryption. Published in the *Journal of Electrical and Computational Innovations*.  
 `C++` `Python` `OpenSSL` `libsodium` `Cryptography`
 
